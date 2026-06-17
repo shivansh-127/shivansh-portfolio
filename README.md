@@ -17,10 +17,3 @@ Open http://localhost:5173
 npm run build
 ```
 
-## Deploy to Vercel
-
-1. Push to GitHub
-2. Import repo on vercel.com
-3. Vercel auto-detects Vite — hit Deploy
-
-No env vars needed.
